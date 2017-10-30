@@ -8,3 +8,5 @@ print 'hello, git?'
 
 print('update 1')
 print('update 2')
+
+print("add function")
